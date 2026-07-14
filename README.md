@@ -96,5 +96,5 @@ npm start
 
 🔗 **LinkedIn :** [Meriam Erragragui](https://www.linkedin.com/in/meriam-erragragui-23b02929a/) | [Omar Tazi](https://www.linkedin.com/in/omar-tazi-b0a131284)  
 
-💻 **GitHub :** [merragragui](https://github.com/merragragui) | [OTazi95](https://github.com/OTazi95)
+💻 **GitHub :** [merragragui]([https://github.com/merragragui](https://github.com/dashboard)) | [OTazi95](https://github.com/OTazi95)
 
