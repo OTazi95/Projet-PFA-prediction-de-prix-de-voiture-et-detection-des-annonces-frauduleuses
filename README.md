@@ -94,15 +94,7 @@ npm start
 
 📧 **Email :** merragragui3@gmail.com | omart4437@gmail.com  
 
-🔗 **LinkedIn :**  
-- [Meriam Erragragui](https://www.linkedin.com/in/meriam-erragragui-23b02929a/)  
-- [Omar Tazi](https://www.linkedin.com/in/omar-tazi-b0a131284)  
+🔗 **LinkedIn :** [Meriam Erragragui](https://www.linkedin.com/in/meriam-erragragui-23b02929a/) | [Omar Tazi](https://www.linkedin.com/in/omar-tazi-b0a131284)  
 
-💻 **GitHub :**  
-- [merragragui](https://github.com/merragragui)  
-- [OTazi95](https://github.com/OTazi95)  
+💻 **GitHub :** [merragragui](https://github.com/merragragui) | [OTazi95](https://github.com/OTazi95)
 
----
-
-**Année Universitaire 2025/2026**  
-**EMSI - École Marocaine des Sciences de l'Ingénieur**
