@@ -57,7 +57,7 @@ git clone https://github.com/merragragui/Projet_Car_Price_Prediction.git
 - **Consulter l'historique** des estimations et les statistiques.  
 
 
-## ** Auteurs & encadrants**
+## **Auteurs & encadrants**
 
 **Étudiants :**  
 -  Mlle. Meriam Erragragui  
