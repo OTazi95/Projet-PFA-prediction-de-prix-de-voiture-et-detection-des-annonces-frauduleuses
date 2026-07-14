@@ -49,15 +49,15 @@ Il s'agit d'une plateforme web intelligente qui accompagne les utilisateurs dans
 git clone https://github.com/merragragui/Projet_Car_Price_Prediction.git
 
 
-## **🖥️ Guide d'utilisation rapide**
+## **Guide d'utilisation rapide**
 
-- 🔑 **Créer un compte** ou se connecter (classique).  
-- 🚗 **Renseigner les caractéristiques** du véhicule → obtenir une estimation de prix.  
-- 🛡️ **Saisir l'URL d'une annonce** → détection automatique de la fraude.  
-- 📊 **Consulter l'historique** des estimations et les statistiques.  
+- **Créer un compte** ou se connecter (classique).  
+- **Renseigner les caractéristiques** du véhicule → obtenir une estimation de prix.  
+- **Saisir l'URL d'une annonce** → détection automatique de la fraude.  
+- **Consulter l'historique** des estimations et les statistiques.  
 
 
-## **👥 Auteurs & encadrants**
+## ** Auteurs & encadrants**
 
 **Étudiants :**  
 -  Mlle. Meriam Erragragui  
@@ -82,5 +82,5 @@ git clone https://github.com/merragragui/Projet_Car_Price_Prediction.git
 
 ---
 
-**📅 Année Universitaire 2025/2026**  
-**🏫 EMSI - École Marocaine des Sciences de l'Ingénieur**
+**Année Universitaire 2025/2026**  
+**EMSI - École Marocaine des Sciences de l'Ingénieur**
