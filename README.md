@@ -49,7 +49,9 @@ Il s'agit d'une plateforme web intelligente qui accompagne les utilisateurs dans
  git clone https://github.com/merragragui/Projet_Car_Price_Prediction.git
 
 **Installer les dépendances backend :**  
+```
 pip install -r requirements.txt
+```
 
 **Installer les dépendances frontend :**  
 ```
@@ -58,7 +60,9 @@ npm install
 ```
 
 **Lancer le backend (Django) :**  
+```
 python manage.py runserver
+```
 
 **Lancer le frontend (React) :**  
 ```
