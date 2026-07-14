@@ -101,16 +101,7 @@ const VendeurDashboard = () => {
               <button className="btn btn-primary" onClick={() => setShowForm('history')}>Voir l'historique</button>
             </div>
 
-            <div className="card">
-              <div className="card-icon" style={{ backgroundColor: 'rgba(234, 179, 8, 0.1)', color: '#eab308' }}>
-                <TrendingUp size={24} />
-              </div>
-              <h2 className="card-title">Tendances du marché</h2>
-              <p className="card-text">
-                Découvrez les modèles les plus recherchés et ajustez votre prix en fonction de la demande actuelle.
-              </p>
-              <button className="btn btn-primary">Voir les tendances</button>
-            </div>
+
           </div>
         </>
         )}
