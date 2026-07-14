@@ -52,15 +52,19 @@ Il s'agit d'une plateforme web intelligente qui accompagne les utilisateurs dans
 pip install -r requirements.txt
 
 **Installer les dépendances frontend :**  
+```
 cd frontend
 npm install
+```
 
 **Lancer le backend (Django) :**  
 python manage.py runserver
 
 **Lancer le frontend (React) :**  
+```
 cd frontend
 npm start
+```
 
 
 ## **Guide d'utilisation rapide**
